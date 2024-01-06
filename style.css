@@ -1,0 +1,57 @@
+#title {
+    text-align: center;
+    color: lightgreen;
+    font-size: 80px;
+}
+
+.img {
+   
+   display: block;
+   margin:auto;
+}
+
+
+.par{
+    text-align: center;
+    font-weight: bolder;
+    font-size:  22px;
+    color: black;
+}
+
+
+.link {
+    font-size: 15px;
+    text-align: left;
+    
+    
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.par#here {
+    text-align: left;
+    font-size:10px;
+
+}
+
+.food-title {
+    text-align: center;
+    color: blue;
+}
+
+.link-par{
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+
+}
+
+.back-button {
+    background-color:rgb(112, 102, 11);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
