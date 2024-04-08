@@ -1,13 +1,51 @@
 #title {
-    text-align: center;
+    text-align: left;
     color: lightgreen;
     font-size: 80px;
+    border-width: 0px 0px 10px 0px;
+    border-color: lightgreen;
+    border-style: solid;
+
 }
 
 .img {
    
    display: block;
-   margin:auto;
+   border: dotted black 5px;
+   margin-bottom: 250px;
+   
+
+}
+
+.next-to-image {
+    margin-top: -525px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    width: 750px;
+    border-width: 0px 0px 0px 10px;
+    border-style: double;
+    border-color: black;
+    font-size: 20px;
+
+
+
+
+
+.two{
+
+    border-width: 0px 0px 0px 10px;
+    border-style: double;
+    border-color: black;
+    margin-top: -475px;
+    font-size:  20px;
+    
+
+
+}
+
+#pizza {
+    width: 750px;
+    margin: -300px auto 0px 10px;
 }
 
 
@@ -16,15 +54,19 @@
     font-weight: bolder;
     font-size:  22px;
     color: black;
+
 }
 
 
 .link {
     font-size: 15px;
     text-align: left;
-    
-    
+    border: green solid;
+    width: 60px;
 }
+    
+    
+
 
 body {
     font-family: 'Courier New', Courier, monospace;
