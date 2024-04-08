@@ -1,0 +1,82 @@
+#title {
+    text-align: left;
+    color: lightgreen;
+    font-size: 80px;
+    border-width: 0px 0px 10px 0px;
+    border-color: lightgreen;
+    border-style: solid;
+
+}
+
+.img {
+   
+   display: block;
+   border: dotted black 5px;
+   margin-bottom: 250px;
+   
+
+}
+
+.next-to-image {
+    margin-top: -500px;
+    margin-bottom: 500px;
+    margin-left: 500px;
+    width: 750px;
+    
+
+}
+.two{
+    margin: top 5pz;
+     ;
+
+}
+
+
+.par{
+    text-align: center;
+    font-weight: bolder;
+    font-size:  22px;
+    color: black;
+
+}
+
+
+.link {
+    font-size: 15px;
+    text-align: left;
+    border: green solid;
+    width: 60px;
+}
+    
+    
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.par#here {
+    text-align: left;
+    font-size:10px;
+
+}
+
+.food-title {
+    text-align: center;
+    color: blue;
+}
+
+.link-par{
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+
+}
+
+.back-button {
+    background-color:rgb(112, 102, 11);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
